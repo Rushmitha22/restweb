@@ -598,13 +598,9 @@ contact.html
 
 ## OUTPUT:
 
-![alt text](r1.png)
+![alt text](s1.png)
 
-![alt text](r2.png)
-
-![alt text](r3.png)
-
-![alt text](r4.png)
+![alt text](s2.png)
 
 ![alt text](r5.png)
 
